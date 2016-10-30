@@ -1,4 +1,5 @@
 # SAU-IMS-Design(Student Association Union Information Manage System)
+最新的登录界面设计图已经上传，详见以log in命名的文件
 以标注版的标注为准   
 *注意：*  
 1. 长度单位统一为像素（px）   
