@@ -1,4 +1,5 @@
 # SAU-IMS-Design(Student Association Union Information Manage System)
+我把社徽的图标修改成正方形了，是log in文件里的logo.png,校社联提供的不是正方形，不好用
 公告界面设计图已经上传，详见以announcement命名的文件
 最新的登录界面设计图已经上传，详见以log in命名的文件
 以标注版的标注为准   
